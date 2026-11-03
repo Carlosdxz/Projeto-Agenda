@@ -1,0 +1,12 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #212529;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.btn-sm {
+  margin: 0 2px;
+}
